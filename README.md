@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Goytia Lab: Antibiotic resistance in Commensal _Neisseria spp_ 
 
 You can use the [editor on GitHub](https://github.com/mgoytia1/lab_home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
