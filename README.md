@@ -1,15 +1,12 @@
 ## Welcome to the Goytia Lab: Antibiotic resistance in Commensal _Neisseria spp_ 
 
-You can use the [editor on GitHub](https://github.com/mgoytia1/lab_home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can access [my Lab website](https://goytia-researchlab.weebly.com/) to see what is going on with our research project at [Spelman College] (https://www.spelman.edu/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can access the Independent Research (BIO487) course on [Research on Microbiomes and impact of disruptions here] (TBD).
 
-### Markdown
+### Dr. Goytia's background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I am a microbiology researcher interested in the evolution of bacteria, and their capacity to adapt to chemical insults, such as antibiotics. My primary line of research is understanding how Neisseria species resist antibiotics and how they form biofilms.
 
 # Header 1
 ## Header 2
