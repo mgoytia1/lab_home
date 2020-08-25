@@ -4,7 +4,7 @@ I know... this page still needs a lot of work :frowning_face:
 
 You can access [my Lab website](https://goytia-researchlab.weebly.com/) to see what is going on with our research project at [Spelman College](https://www.spelman.edu/).
 
-You can access the Independent Research (BIO487) course on [Research on Microbiomes and impact of disruptions here](https://github.com/mgoytia1/lab_home/blob/master/bio487_week1).
+You can access the Independent Research (BIO487) course on [Research on Microbiomes and impact of disruptions here](https://github.com/mgoytia1/lab_home/blob/master/bio487_wk1.md).
 
 ### Dr. Goytia's background
 
@@ -13,7 +13,7 @@ I am a microbiology researcher interested in the evolution of bacteria, and thei
 # BIO487 - Independent Research Course
 ### Syllabus
 
-- [Week 1](https://github.com/mgoytia1/lab_home/blob/master/bio487_week1): introduction of course, of instructors, of students, learning objectives, logistics of course - Provide articles to review through perusall. 
+- [Week 1](https://github.com/mgoytia1/lab_home/blob/master/bio487_wk1.md): introduction of course, of instructors, of students, learning objectives, logistics of course - Provide articles to review through perusall. 
 - Week 2: Review article on the importance of microbiome diversity and balance
 - Week 3: primary research article on a specific disruption of the microbiome (antibiotic treatment? cholera?)
 - Week 4: Start with tutorial ReMNet on xls - start discussing potential independent project - Article using QIIME/2
