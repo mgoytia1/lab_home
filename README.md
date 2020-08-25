@@ -2,21 +2,30 @@
 
 You can access [my Lab website](https://goytia-researchlab.weebly.com/) to see what is going on with our research project at [Spelman College](https://www.spelman.edu/).
 
-You can access the Independent Research (BIO487) course on [Research on Microbiomes and impact of disruptions here] (TBD).
+You can access the Independent Research (BIO487) course on [Research on Microbiomes and impact of disruptions here] (https://github.com/mgoytia1/lab_home/blob/master/bio487_week1).
 
 ### Dr. Goytia's background
 
 I am a microbiology researcher interested in the evolution of bacteria, and their capacity to adapt to chemical insults, such as antibiotics. My primary line of research is understanding how Neisseria species resist antibiotics and how they form biofilms.
 
-# Header 1
-## Header 2
-### Header 3
+# BIO487 - Independent Research Course
+### Syllabus
 
-- Bulleted
-- List
+- [Week 1](https://github.com/mgoytia1/lab_home/blob/master/bio487_week1): introduction of course, of instructors, of students, learning objectives, logistics of course - Provide articles to review through perusall. 
+- Week 2: Review article on the importance of microbiome diversity and balance
+- Week 3: primary research article on a specific disruption of the microbiome (antibiotic treatment? cholera?)
+- Week 4: Start with tutorial ReMNet on xls - start discussing potential independent project - Article using QIIME/2
+- Week 5: Tutorial REMNet on R-  design independent project - Article where microbiome was analyzed with Mothur
+- [Week 6](https://github.com/mgoytia1/lab_home/blob/master/bio487_week6): Tutorial Galaxy training on Mothur - independent project
+- Week 7: Phinch visualization tutorial with flagship dataset
+- Week 8: Start with their own project - Each group presents their research question and expected analysis. Discussion on Background information 
+- Week 9 : Discussion on Experimental design and analysis 
+- Week 10: Discussion on proceedings and timeline (to start project next semester)
+- Week 11: wrap-up of project
 
-1. Numbered
-2. List
+### Meetings
+1. Weekly lab meetings (1h) (TBD)
+2. Weekly 1on1 meetings (30 min) (TBD)
 
 **Bold** and _Italic_ and `Code` text
 
