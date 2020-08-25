@@ -1,5 +1,7 @@
 ## Welcome to the Goytia Lab: Antibiotic resistance in Commensal _Neisseria spp_ 
 
+I know... this page still needs a lot of work :frowning_face:
+
 You can access [my Lab website](https://goytia-researchlab.weebly.com/) to see what is going on with our research project at [Spelman College](https://www.spelman.edu/).
 
 You can access the Independent Research (BIO487) course on [Research on Microbiomes and impact of disruptions here](https://github.com/mgoytia1/lab_home/blob/master/bio487_week1).
